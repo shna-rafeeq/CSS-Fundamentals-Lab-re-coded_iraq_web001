@@ -35,6 +35,14 @@ h1{
   display: block;
 }
 
+.float{
+float: left;
+text-align: center;
+background-color: red;
+
+}
+
+
 
 
 
