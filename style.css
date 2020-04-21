@@ -38,7 +38,7 @@ h1{
 .float{
 float: left;
 text-align: center;
-padding: 120px;
+padding: auto;
 background-color: red;
 }
 
